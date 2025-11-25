@@ -50,7 +50,7 @@ Unlike standard API wrappers, this project implements a **Java Spring Boot backe
 
 | Home Page (3D Slider) | Gallery View | Detail Modal |
 |:---:|:---:|:---:|
-| ![Home]([https://via.placeholder.com/300x200?text=Home+Page](https://github.com/ashishverma4822/NASA-APOD-Explorer/blob/main/ScreentShot/Home1.png?raw=true)) | ![Gallery]([https://via.placeholder.com/300x200?text=Gallery](https://github.com/ashishverma4822/NASA-APOD-Explorer/blob/main/ScreentShot/Gallery.png?raw=true)) | ![Modal]([https://via.placeholder.com/300x200?text=Modal](https://github.com/ashishverma4822/NASA-APOD-Explorer/blob/main/ScreentShot/Search.png?raw=true)) |
+| ![Home](https://github.com/ashishverma4822/NASA-APOD-Explorer/blob/main/ScreentShot/Home1.png?raw=true) | ![Gallery](https://github.com/ashishverma4822/NASA-APOD-Explorer/blob/main/ScreentShot/Gallery.png?raw=true) | ![Modal](https://github.com/ashishverma4822/NASA-APOD-Explorer/blob/main/ScreentShot/Search.png?raw=true) |
 
 ---
 
