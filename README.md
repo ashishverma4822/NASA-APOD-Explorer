@@ -116,7 +116,7 @@ The Java Backend exposes the following REST endpoints:
 
 ```text
 nasa-apod-explorer/
-├── backend/                 # Java Spring Boot
+├── APOD_API(backend)/                 # Java Spring Boot
 │   ├── src/main/java/com/lostsetbit/APOD_API/
 │   │   ├── config/          # Cache & CORS Config
 │   │   ├── controller/      # REST Endpoints
@@ -124,7 +124,7 @@ nasa-apod-explorer/
 │   │   └── service/         # Business Logic & NASA API Calls
 │   └── pom.xml
 │
-└── frontend/                # React + Vite
+└── NASA_AOPD(frontend)/                # React + Vite
     ├── src/
     │   ├── components/      # Reusable UI (ApodCard, Navbar, Footer)
     │   ├── pages/           # Home, Gallery, Search
