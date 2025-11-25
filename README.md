@@ -1,11 +1,11 @@
-# 🚀 NASA APOD Explorer
+#  NASA APOD Explorer
 
 > **A futuristic portal to the cosmos.** > A full-stack web application that transforms NASA's Astronomy Picture of the Day (APOD) API into an immersive, dark-themed visual experience.
 
 ![Project Banner](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![Tech Stack](https://img.shields.io/badge/Stack-React_%2B_Spring_Boot-blue?style=for-the-badge)
 
-## 📖 Overview
+## Overview
 
 **NASA APOD Explorer** is designed to present the wonders of the universe through a high-performance interface. It leverages the public NASA API to fetch astronomical imagery, wrapping it in a "Space-Dark" UI designed for immersion. 
 
@@ -13,23 +13,23 @@ Unlike standard API wrappers, this project implements a **Java Spring Boot backe
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 🌌 Immersive Frontend
+### Immersive Frontend
 * **3D Coverflow Slider:** A custom-built 3D carousel on the home page that strictly fetches the **last 7 days** of history (chronological).
 * **Cinematic Gallery:** Features a large hero slider for top images and a responsive infinite grid for discovery.
 * **Deep Time Search:** A custom dark-mode calendar allows users to jump back to specific dates (starting from 1995).
 * **Smart Media:** Handles both HD images and video content (YouTube/Vimeo) seamlessly.
 * **Interactive Modals:** Full-screen details view with split-layout metadata.
 
-### 🛡️ Robust Backend
+### Robust Backend
 * **Performance Caching:** Implements in-memory caching to prevent API Rate Limiting (429 Errors) and speed up repeated requests.
 * **Timezone Intelligence:** Automatically converts user requests to **New York Time (EST)** to ensure the "Today" and "Last 7 Days" endpoints never fail due to timezone differences between the user and NASA servers.
 * **Secure Architecture:** Acts as a proxy to keep the NASA API Key hidden from the client-side browser.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend (Client)
 * **Framework:** React.js (Vite)
