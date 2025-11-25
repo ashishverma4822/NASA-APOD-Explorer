@@ -50,11 +50,11 @@ Unlike standard API wrappers, this project implements a **Java Spring Boot backe
 
 | Home Page (3D Slider) | Gallery View | Detail Modal |
 |:---:|:---:|:---:|
-| ![Home](https://via.placeholder.com/300x200?text=Home+Page) | ![Gallery](https://via.placeholder.com/300x200?text=Gallery) | ![Modal](https://via.placeholder.com/300x200?text=Modal) |
+| ![Home]([https://via.placeholder.com/300x200?text=Home+Page](https://github.com/ashishverma4822/NASA-APOD-Explorer/blob/main/ScreentShot/Home1.png?raw=true)) | ![Gallery]([https://via.placeholder.com/300x200?text=Gallery](https://github.com/ashishverma4822/NASA-APOD-Explorer/blob/main/ScreentShot/Gallery.png?raw=true)) | ![Modal]([https://via.placeholder.com/300x200?text=Modal](https://github.com/ashishverma4822/NASA-APOD-Explorer/blob/main/ScreentShot/Search.png?raw=true)) |
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these instructions to run the project locally.
 
@@ -99,7 +99,7 @@ Follow these instructions to run the project locally.
 
 ---
 
-## 🔌 API Endpoints
+## API Endpoints
 
 The Java Backend exposes the following REST endpoints:
 
@@ -131,8 +131,10 @@ nasa-apod-explorer/
     │   ├── services/        # Axios API Configuration
     │   └── App.jsx
     └── tailwind.config.js
+```
+---
 
-License
+## License
 This project is developed for educational purposes.
 Data and Imagery courtesy of NASA.
-© 2025 LostSetBit.
+© 2025 LostSetBit hiAyu(💞).
