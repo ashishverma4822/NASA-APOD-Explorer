@@ -46,7 +46,7 @@ Unlike standard API wrappers, this project implements a **Java Spring Boot backe
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | Home Page (3D Slider) | Gallery View | Detail Modal |
 |:---:|:---:|:---:|
